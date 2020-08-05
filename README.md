@@ -1,2 +1,2 @@
 # SmartAsteroid
-Game Edukasi Matematika
+Game Edukasi Matematika tingkat SMP
